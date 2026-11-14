@@ -5,8 +5,8 @@ export const metadata: Metadata = {
   title: "WIFI MTAANI | Internet that keeps you connected",
   description: "Flexible hotspot and home internet packages from VEKNET TECHNOLOGIES. Get connected with WIFI MTAANI.",
   icons: {
-    icon: "/WifiMtaani-logo.png", // Favicon for the browser tab
-    apple: "/WifiMtaani-logo.png", // For Apple devices
+    icon: "/WifiMtaaniLogo.jpg", // Favicon for the browser tab
+    apple: "/WifiMtaaniLogo.jpg", // For Apple devices
   },
 };
 

@@ -90,7 +90,7 @@ export default function Home() {
       <header className="site-header">
         <a className="brand" href="#home" aria-label="WIFI MTAANI home">
           <span className="brand-mark">
-            <img src="/WifiMtaani-logo.png" alt="WIFI MTAANI Logo" className="brand-logo" />
+            <img src="/WifiMtaaniLogo.jpg" alt="WIFI MTAANI Logo" className="brand-logo" />
           </span>
           <span className="brand-copy"><strong>WIFI MTAANI</strong><small>BY VEKNET TECHNOLOGIES</small></span>
         </a>
