@@ -19,7 +19,7 @@ const WHATSAPP_LINK = whatsappLink(
 
 /* ── Content data ────────────────────────────────────────────── */
 const packages = [
-  { speed: "8", price: "1,500" },
+  { speed: "5", price: "1,500" },
   { speed: "10", price: "1,800" },
   { speed: "12", price: "2,000" },
   { speed: "15", price: "2,500", popular: true },
@@ -157,7 +157,7 @@ export default function Home() {
             <span className="breakdown-icon">📦</span>
             <div>
               <strong>Monthly Subscription</strong>
-              <p>Choose a speed from 8 to 20 Mbps. Prices range from <strong>KSh 1,500 to 3,000</strong> per month, billed monthly.</p>
+              <p>Choose a speed from 5 to 20 Mbps. Prices range from <strong>KSh 1,500 to 3,000</strong> per month, billed monthly.</p>
             </div>
           </div>
           <div className="breakdown-divider" />
